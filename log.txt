@@ -1,9 +1,8 @@
-c5a661f (HEAD -> main) Task 2.4
+315daca (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+6912122 Task 2.4
+c5a661f Task 2.4
 257117c Task 2.3
 072b5d0 Task 2.3
 54d88ad Task 2.2
 1c87d43 Task 2.2
 c7e7e51 Task 2.1
-becfcef Task 2
-bcc1b4b Task 1.2
-
